@@ -28,4 +28,4 @@ if (eta<18){
 
 console.log (prezzo)
 
-document.getElementById("titolo").innerHTML="Il costo del tuo biglietto è "+prezzo + " euro."
+document.getElementById("titolo").innerHTML="Grazie per aver compilato il form! <br>Il costo del tuo biglietto è: "+prezzo + " euro."

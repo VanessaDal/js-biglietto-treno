@@ -16,7 +16,7 @@
 header > h1 {
   text-align: center;
   margin-top: 2%;
-  font-size: 45px;
+  font-size: 65px;
   background: linear-gradient(to right, #09ec8a 0%, #e40101 85%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -38,4 +38,5 @@ header > ul {
   padding: 30px 60px;
   font-size: 40px;
   color: bisque;
+  text-align: center;
 }
